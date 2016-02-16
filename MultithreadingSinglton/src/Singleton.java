@@ -1,5 +1,5 @@
 /**
- * Created by Shafs on 12.02.2016.
+ * Created by AnShafs on 12.02.2016.
  */
 public class Singleton {
 
